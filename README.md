@@ -1,5 +1,5 @@
 ## About me
-I'm currently 17, i procrastinate a lot so what you'll find in my github is a lot of mixed, unfinished, unpolished ideas.
+I'm currently 18, i procrastinate a lot so what you'll find in my github is a lot of mixed, unfinished, unpolished ideas.
 Lots of projects i've worked on over the years have been lost in old hard drives/formatted so this is all i got for now.
 
 <!--
