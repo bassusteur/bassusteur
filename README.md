@@ -10,6 +10,8 @@ I go by Lexi, I'm 18 years old, from Italy, hobbyist interested in all things co
 
 ![Bassusteur's GitHub stats](https://github-readme-stats.vercel.app/api?username=bassusteur&show_icons=true&theme=transparent)
 
+### pfp credit: wdrz_photography
+
 <!--
 **bassusteur/bassusteur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
