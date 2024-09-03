@@ -2,7 +2,7 @@
 18 Years old.
 Italy.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bassusteur)](https://github.com/anuraghazra/github-readme-stats)
+[![Code Stats](https://codestats.net/users/Bassusteur)]
 
 
 <!--
