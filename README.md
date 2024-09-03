@@ -2,7 +2,7 @@
 18 Years old.
 Italy.
 
-[Code Stats](https://codestats.net/users/Bassusteur)]
+[Code Stats](https://codestats.net/users/Bassusteur)
 
 
 <!--
