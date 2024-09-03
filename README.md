@@ -1,6 +1,9 @@
 ## About me
-I'm currently 18, i procrastinate a lot so what you'll find in my github is a lot of mixed, unfinished, unpolished ideas.
-Lots of projects i've worked on over the years have been lost in old hard drives/formatted so this is all i got for now.
+18 Years old.
+Italy.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bassusteur)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **bassusteur/bassusteur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
