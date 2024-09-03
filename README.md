@@ -1,7 +1,9 @@
 ## About me
 Hi, this is my github profile where i store all sorts of projects.
 I go by Lexi, I'm 18 years old, from Italy, hobbyist interested in all things computers and electronics.  
+  
 **Current obsession:** RISC-V.  
+  
 **Interests:** amateur radio, photography, comp sci, electronics, nature, drawing.  
 
 [Code Stats](https://codestats.net/users/Bassusteur)
