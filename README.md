@@ -1,6 +1,6 @@
 ## About me
 Hi, this is my github profile where i store all sorts of projects.  
-I go by Lexi, I'm 18 years old, from Italy, hobbyist interested in all things computers and electronics.  
+I go by Ambra, I'm 18 years old, from Italy, hobbyist interested in all things computers and electronics.  
   
 **Current obsession:** RISC-V.  
   
